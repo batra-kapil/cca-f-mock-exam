@@ -2,7 +2,18 @@
 
 A free, full-length practice exam for the **Claude Certified Architect – Foundations (CCA-F)** certification.
 
-**▶ Take the exam: https://batra-kapil.github.io/cca-f-mock-exam/**
+<p align="center">
+  <a href="https://batra-kapil.github.io/cca-f-mock-exam/"><img src="https://img.shields.io/badge/%E2%96%B6%20Take%20the%20mock%20exam-CC785C?style=for-the-badge" alt="Take the mock exam" height="44"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/batra-kapil"><img src="https://img.shields.io/github/followers/batra-kapil?label=Follow%20%40batra-kapil&style=social" alt="Follow batra-kapil on GitHub"></a>
+  &nbsp;
+  <a href="https://github.com/batra-kapil/cca-f-mock-exam"><img src="https://img.shields.io/github/stars/batra-kapil/cca-f-mock-exam?label=Star%20this%20repo&style=social" alt="Star this repo"></a>
+</p>
+
+<p align="center"><b>Exam link:</b> <a href="https://batra-kapil.github.io/cca-f-mock-exam/">batra-kapil.github.io/cca-f-mock-exam</a><br>
+<sub>If it helped you, please ⭐ star the repo and follow me for more Claude and Salesforce content.</sub></p>
 
 ## Why I built this
 
