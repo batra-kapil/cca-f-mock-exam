@@ -4,6 +4,18 @@ A free, full-length practice exam for the **Claude Certified Architect – Found
 
 **▶ Take the exam: https://batra-kapil.github.io/cca-f-mock-exam/**
 
+## Why I built this
+
+I used this mock exam to prepare for CCA-F, and passed the real exam on October 19, 2026.
+
+<p align="center">
+  <a href="https://www.credly.com/badges/9b3aacd3-05cd-4254-8163-1692a4b6f2dd">
+    <img src="assets/cca-f-certificate.jpg" alt="Claude Certified Architect – Foundations certificate issued by Anthropic to Kapil Batra on October 19, 2026" width="640">
+  </a>
+  <br>
+  <sub><a href="https://www.credly.com/badges/9b3aacd3-05cd-4254-8163-1692a4b6f2dd">Verify on Credly</a></sub>
+</p>
+
 ## What's inside
 
 - **60 scenario-based questions** in 120 minutes, the same length and time limit as the real exam
