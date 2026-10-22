@@ -69,3 +69,7 @@ This is an independent practice set written against the publicly available CCA-F
 ---
 
 Built by [Kapil Batra](https://github.com/batra-kapil) · Salesforce MVP · Claude Certified Architect – Foundations
+
+<a href="https://www.youtube.com/salesforcebolt"><img src="https://img.shields.io/badge/YouTube-Salesforce%20Bolt-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Salesforce Bolt on YouTube"></a>
+
+For more Salesforce and AI content, subscribe on YouTube: https://www.youtube.com/salesforcebolt
